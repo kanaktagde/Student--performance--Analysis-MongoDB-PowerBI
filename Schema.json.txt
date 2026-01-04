@@ -1,0 +1,11 @@
+{
+  "collection": "students",
+  "fields": {
+    "name": "string",
+    "department": "string",
+    "semester": "number",
+    "marks": "number",
+    "attendance": "number",
+    "gender": "string"
+  }
+}
