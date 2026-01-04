@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Amit",
+    "department": "AI & DS",
+    "semester": 5,
+    "marks": 82,
+    "attendance": 90,
+    "gender": "Male"
+  }
+]
